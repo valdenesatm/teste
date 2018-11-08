@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="CANAIS: DOCUMENTARIOS",Animal Planet HD
+https://gg3.azureedge.net//hls1/animalplanet.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sony" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="CANAIS: FILMES/SERIES",Canal Sony
+https://gg3.azureedge.net//hls1/sony.m3u8
